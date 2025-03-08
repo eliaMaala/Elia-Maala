@@ -15,9 +15,9 @@
 - **Testing & Code Quality:** JUnit, Mockito, SonarQube  
 
 ## 📂 Featured Projects
-🔹 [**E-commerce Backend System**](https://github.com/your-repo-link) *(In Progress)*  
-🔹 [**Microservices Booking System**](https://github.com/your-repo-link) *(In Progress)*  
-🔹 [**Real-time Chat Application**](https://github.com/your-repo-link) *(In Progress)*  
+🔹 [**E-commerce Backend System**](https://github.com/your-repo-link)  
+🔹 [**Microservices Booking System**](https://github.com/your-repo-link)   
+🔹 [**Real-time Chat Application**](https://github.com/your-repo-link)   
 
 ## 📫 Connect With Me:
 📍 **LinkedIn:** [linkedin.com/in/elia-maala](#)  
